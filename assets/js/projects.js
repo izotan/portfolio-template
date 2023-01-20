@@ -1,7 +1,7 @@
 export default [
   {
-    text: 'Describe this project, whas it a college activity or an acctual job? What did you do ? link the website bellow if you can.',
-    image: 'https://img.itch.zone/aW1nLzI1OTAzMDkucG5n/original/dEo5Rg.png',
+    text: 'Projeto desenvolvido durante a faculdade. Trata-se de um jogo do gênero Endless Runner feito originalmente em C++ usando a biblioteca Lib Unicorn de Guilherme Alan Johann',
+    image: 'dEo5Rg.png',
   },
   {
     text: 'text 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
