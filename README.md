@@ -1,1 +1,1 @@
-Portfolio template to be used with Bohr.io.
+Portfolio created with Bohr.io.
